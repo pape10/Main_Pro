@@ -1,0 +1,12 @@
+C:\Users\Pradeepta_Ranjan_Cho\source\repos\Main_Pro\ChattingInterfaces\bin\Debug\ChattingInterfaces.dll
+C:\Users\Pradeepta_Ranjan_Cho\source\repos\Main_Pro\ChattingInterfaces\bin\Debug\ChattingInterfaces.pdb
+C:\Users\Pradeepta_Ranjan_Cho\source\repos\Main_Pro\ChattingInterfaces\obj\Debug\ChattingInterfaces.csprojAssemblyReference.cache
+C:\Users\Pradeepta_Ranjan_Cho\source\repos\Main_Pro\ChattingInterfaces\obj\Debug\ChattingInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Pradeepta_Ranjan_Cho\source\repos\Main_Pro\ChattingInterfaces\obj\Debug\ChattingInterfaces.dll
+C:\Users\Pradeepta_Ranjan_Cho\source\repos\Main_Pro\ChattingInterfaces\obj\Debug\ChattingInterfaces.pdb
+C:\Users\Pradeepta_Ranjan_Cho\Desktop\Main_Pro\ChattingInterfaces\bin\Debug\ChattingInterfaces.dll
+C:\Users\Pradeepta_Ranjan_Cho\Desktop\Main_Pro\ChattingInterfaces\bin\Debug\ChattingInterfaces.pdb
+C:\Users\Pradeepta_Ranjan_Cho\Desktop\Main_Pro\ChattingInterfaces\obj\Debug\ChattingInterfaces.csprojAssemblyReference.cache
+C:\Users\Pradeepta_Ranjan_Cho\Desktop\Main_Pro\ChattingInterfaces\obj\Debug\ChattingInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Pradeepta_Ranjan_Cho\Desktop\Main_Pro\ChattingInterfaces\obj\Debug\ChattingInterfaces.dll
+C:\Users\Pradeepta_Ranjan_Cho\Desktop\Main_Pro\ChattingInterfaces\obj\Debug\ChattingInterfaces.pdb

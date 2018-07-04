@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ChattingServer.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Spn1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">pape-3pa8-sqoy19</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

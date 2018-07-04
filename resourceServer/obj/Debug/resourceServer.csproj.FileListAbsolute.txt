@@ -1,0 +1,16 @@
+C:\Users\Pradeepta_Ranjan_Cho\Desktop\Main_Pro\resourceServer\bin\Debug\resourceServer.exe.config
+C:\Users\Pradeepta_Ranjan_Cho\Desktop\Main_Pro\resourceServer\bin\Debug\resourceServer.exe
+C:\Users\Pradeepta_Ranjan_Cho\Desktop\Main_Pro\resourceServer\bin\Debug\resourceServer.pdb
+C:\Users\Pradeepta_Ranjan_Cho\Desktop\Main_Pro\resourceServer\obj\Debug\resourceServer.csprojAssemblyReference.cache
+C:\Users\Pradeepta_Ranjan_Cho\Desktop\Main_Pro\resourceServer\obj\Debug\resourceServer.csproj.CoreCompileInputs.cache
+C:\Users\Pradeepta_Ranjan_Cho\Desktop\Main_Pro\resourceServer\obj\Debug\resourceServer.exe
+C:\Users\Pradeepta_Ranjan_Cho\Desktop\Main_Pro\resourceServer\obj\Debug\resourceServer.pdb
+C:\Users\Pradeepta_Ranjan_Cho\Desktop\Main_Pro\resourceServer\bin\Debug\Client.exe
+C:\Users\Pradeepta_Ranjan_Cho\Desktop\Main_Pro\resourceServer\bin\Debug\ChattingInterfaces.dll
+C:\Users\Pradeepta_Ranjan_Cho\Desktop\Main_Pro\resourceServer\bin\Debug\Client.pdb
+C:\Users\Pradeepta_Ranjan_Cho\Desktop\Main_Pro\resourceServer\bin\Debug\Client.exe.config
+C:\Users\Pradeepta_Ranjan_Cho\Desktop\Main_Pro\resourceServer\bin\Debug\ChattingInterfaces.pdb
+C:\Users\Pradeepta_Ranjan_Cho\Desktop\Main_Pro\resourceServer\obj\Debug\resourceServer.csproj.CopyComplete
+C:\Users\Pradeepta_Ranjan_Cho\Desktop\Main_Pro\resourceServer\bin\Debug\ChattingServer.exe
+C:\Users\Pradeepta_Ranjan_Cho\Desktop\Main_Pro\resourceServer\bin\Debug\ChattingServer.pdb
+C:\Users\Pradeepta_Ranjan_Cho\Desktop\Main_Pro\resourceServer\bin\Debug\ChattingServer.exe.config
